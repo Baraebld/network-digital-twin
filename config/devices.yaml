@@ -1,0 +1,21 @@
+# Device Inventory for Network Automation & Management
+# Reference: Section 2.2, Figure 6 of Rapport_TP_Reseau.pdf
+
+devices:
+  - name: SW1
+    host: 192.168.30.2
+    device_type: cisco_ios
+    username: admin
+    password: password123
+
+  - name: R1
+    host: 192.168.30.1
+    device_type: cisco_ios
+    username: admin
+    password: password123
+
+  - name: SW2
+    host: 192.168.10.2
+    device_type: cisco_ios
+    username: admin
+    password: password123

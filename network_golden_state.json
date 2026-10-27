@@ -1,0 +1,67 @@
+{
+  "ROUTER-GW": {
+    "ip": "192.168.10.1",
+    "interfaces": {
+      "GigabitEthernet0/0": "UP",
+      "GigabitEthernet0/1": "UP"
+    }
+  },
+  "SWITCH-A": {
+    "ip": "192.168.10.2",
+    "interfaces": {
+      "GigabitEthernet1/0/1": "UP",
+      "GigabitEthernet1/0/2": "DOWN",
+      "GigabitEthernet1/0/3": "DOWN",
+      "GigabitEthernet1/0/4": "DOWN",
+      "GigabitEthernet1/0/5": "DOWN",
+      "GigabitEthernet1/0/6": "DOWN",
+      "GigabitEthernet1/0/7": "UP",
+      "GigabitEthernet1/0/8": "DOWN",
+      "GigabitEthernet1/0/9": "DOWN",
+      "GigabitEthernet1/0/10": "DOWN",
+      "GigabitEthernet1/0/11": "DOWN",
+      "GigabitEthernet1/0/12": "DOWN",
+      "GigabitEthernet1/0/13": "DOWN",
+      "GigabitEthernet1/0/14": "DOWN",
+      "GigabitEthernet1/0/15": "DOWN",
+      "GigabitEthernet1/0/16": "DOWN",
+      "GigabitEthernet1/0/17": "UP",
+      "GigabitEthernet1/0/18": "DOWN",
+      "GigabitEthernet1/0/19": "DOWN",
+      "GigabitEthernet1/0/20": "DOWN",
+      "GigabitEthernet1/0/21": "DOWN",
+      "GigabitEthernet1/0/22": "DOWN",
+      "GigabitEthernet1/0/23": "DOWN",
+      "GigabitEthernet1/0/24": "DOWN"
+    }
+  },
+  "SWITCH-B": {
+    "ip": "192.168.30.2",
+    "interfaces": {
+      "GigabitEthernet1/0/1": "UP",
+      "GigabitEthernet1/0/2": "DOWN",
+      "GigabitEthernet1/0/3": "DOWN",
+      "GigabitEthernet1/0/4": "DOWN",
+      "GigabitEthernet1/0/5": "UP",
+      "GigabitEthernet1/0/6": "DOWN",
+      "GigabitEthernet1/0/7": "DOWN",
+      "GigabitEthernet1/0/8": "DOWN",
+      "GigabitEthernet1/0/9": "DOWN",
+      "GigabitEthernet1/0/10": "DOWN",
+      "GigabitEthernet1/0/11": "DOWN",
+      "GigabitEthernet1/0/12": "DOWN",
+      "GigabitEthernet1/0/13": "UP",
+      "GigabitEthernet1/0/14": "DOWN",
+      "GigabitEthernet1/0/15": "DOWN",
+      "GigabitEthernet1/0/16": "DOWN",
+      "GigabitEthernet1/0/17": "DOWN",
+      "GigabitEthernet1/0/18": "DOWN",
+      "GigabitEthernet1/0/19": "DOWN",
+      "GigabitEthernet1/0/20": "DOWN",
+      "GigabitEthernet1/0/21": "DOWN",
+      "GigabitEthernet1/0/22": "DOWN",
+      "GigabitEthernet1/0/23": "DOWN",
+      "GigabitEthernet1/0/24": "DOWN"
+    }
+  }
+}
